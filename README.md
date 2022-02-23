@@ -1,4 +1,4 @@
-# bearPYT
+# Pet shop
 Решение тестового задания в Яндекс.Финтех
 
 Реализация: Python 3.8. Pytest. Requests.
